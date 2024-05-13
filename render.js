@@ -1,0 +1,4 @@
+function render() {
+    formComponent("Register");
+}
+
